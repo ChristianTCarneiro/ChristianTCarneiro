@@ -1,4 +1,5 @@
 ### Christian Carneio
+### Olá Pessoal 👋
 
 - 🎓 Sou formado em Ciência da Computação e lá descobri o mundo da programação.
 - 💻Durante os 4 anos de formação, programei muito em java, mas nunca consegui ir muito a fundo nisso, porque tinha muita dificuldade.
